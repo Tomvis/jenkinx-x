@@ -20,7 +20,7 @@ spec:
   - key: staging
   - key: production
   ingress:
-    domain: ""
+    domain: "saveme.club"
     externalDNS: false
     namespaceSubDomain: -jx.
     tls:
@@ -31,3 +31,4 @@ spec:
   secretStorage: local
   vault: {}
   webhook: lighthouse
+# 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
